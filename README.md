@@ -8,3 +8,4 @@ cd ~
 chmod +x ssh_script.sh
 create alias for .bashrc or .zshrc
 run script, fill in blanks
+ 

@@ -1,4 +1,5 @@
 #!/bin/bash
+# Always check bash path: which bash
 # Edit usernames if you company uses more than one for dif. networking nodes
 # Default uses the usename your logged in with
 u0="mike"

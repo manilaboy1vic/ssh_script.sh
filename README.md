@@ -1,5 +1,5 @@
 # ssh_script.sh
-#  I use this script on my Linux machine to ssh to switches/routers that have are configured with different login IDs.. No TACACS on any device.
+#  I created this script on my Linux machine to ssh to switches/routers that are configured with different login IDs.. No TACACS on any device on the network.
 This is for use on a Linux or FreeBSD .. <BR>
 Install sshpass: <BR>
 sudo apt install sshpass<BR>
